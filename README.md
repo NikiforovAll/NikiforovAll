@@ -49,7 +49,7 @@
   <img src="https://raw.githubusercontent.com/NikiforovAll/NikiforovAll/master/images/social/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
 </a>
 
-<a href="#">
+<a href="https://www.linkedin.com/in/nikiforov-alexey/">
     <img src="https://raw.githubusercontent.com/NikiforovAll/NikiforovAll/master/images/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
 </a>
 
