@@ -1,6 +1,6 @@
 ## Hi, I'm [Alexey](https://nikiforovall.github.io/).
 
-- 🌱 I’m currently learning **.NET Core**, **Distributed Systems**, **Docker**, **Git**, **TypeScript**.
+- 🌱 I’m currently learning **.NET Core**, **Docker**, **Git**, **TypeScript**, **Distributed Systems**, **Microservices**.
 - 👯 I’m looking to collaborate on challenging enterprise projects, frameworks, and tools for developers.
 - 🤔 I’m looking for help with finding time for all of the good stuff.
 - 💬 Ask me about .NET and Business Analysis.
