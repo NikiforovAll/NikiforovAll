@@ -33,6 +33,13 @@
   <img src="https://raw.githubusercontent.com/NikiforovAll/NikiforovAll/master/images/dev/misc/web.svg" alt="web" style="vertical-align:top; margin:6px 4px">
 </a>
 
+### Coding Platforms
+| Name     | Description                                                                                                                       | GitHub Repository                                                           |
+|----------|-----------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| CodeWars | [![CodeWars Badge](https://www.codewars.com/users/NikiforovAll/badges/micro)](https://www.codewars.com/users/NikiforovAll/badges) | [/codewars-playground](https://github.com/NikiforovAll/codewars-playground) |
+| LeetCode | [leetcode.com/nikiforovall/](https://leetcode.com/nikiforovall/)                                                                  | [/leetcode-playground](https://github.com/NikiforovAll/leetcode-playground) |
+| Exercism | [exercism.io/profiles/nikiforovall/](https://exercism.io/profiles/NikiforovAll/)                                                  | [/exercism-playground](https://github.com/NikiforovAll/exercism-playground) |
+
 ## I'm interested in
 
 - .NET Core ecosystem
