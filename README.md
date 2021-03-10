@@ -1,4 +1,4 @@
-## Hi, I'm [Alexey](https://nikiforovall.github.io/).
+## Hi, I'm [Oleksii](https://nikiforovall.github.io/).
 
 - 🌱 I’m currently learning **.NET Core**, **Docker**, **Git**, **TypeScript**, **Distributed Systems**, **Microservices**.
 - 👯 I’m looking to collaborate on challenging enterprise projects, frameworks, and tools for developers.
@@ -52,7 +52,7 @@
 
 ## Social
 
-<a href="mailto:nikiforovalekcey@gmail.com">
+<a href="mailto:alexey.nikiforovall@gmail.com">
   <img src="https://raw.githubusercontent.com/NikiforovAll/NikiforovAll/master/images/social/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
 </a>
 
