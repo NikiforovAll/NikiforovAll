@@ -1,8 +1,7 @@
 ## Hi, I'm [Oleksii](https://nikiforovall.github.io/).
 
-- 🌱 I’m currently learning **.NET Core**, **Docker**, **Git**, **TypeScript**, **Distributed Systems**, **Microservices**.
+- 🌱 I’m interested in **.NET Core**, **Distributed Systems**, **Microservices**.
 - 👯 I’m looking to collaborate on challenging enterprise projects, frameworks, and tools for developers.
-- 🤔 I’m looking for help with finding time for all of the good stuff.
 - 💬 Ask me about .NET and Business Analysis.
 - 😄 Pronouns: he/him.
 
