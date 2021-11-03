@@ -1,43 +1,8 @@
 ## Hi, I'm [Oleksii](https://nikiforovall.github.io/).
 
-- 🌱 I’m interested in **.NET Core**, **Distributed Systems**, **Microservices**.
-- 👯 I’m looking to collaborate on challenging enterprise projects, frameworks, and tools for developers.
-- 💬 Ask me about .NET and Business Analysis.
-- 😄 Pronouns: he/him.
-
-## Languages and Tools
-
-<a href="#">
-  <img src="https://raw.githubusercontent.com/NikiforovAll/NikiforovAll/master/images/dev/languages/csharp_dotnet.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px;">
-</a>
-<a href="#">
-  <img src="https://raw.githubusercontent.com/NikiforovAll/NikiforovAll/master/images/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px;">
-</a>
-<!-- <a href="#">
-  <img src="https://raw.githubusercontent.com/NikiforovAll/NikiforovAll/master/images/dev/languages/typescript.png" alt="typescript" style="vertical-align:top; margin:6px 4px;">
-</a> -->
-<a href="#">
-  <img src="https://raw.githubusercontent.com/NikiforovAll/NikiforovAll/master/images/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:6px 4px;">
-</a>
-<a href="#">
-  <img src="https://raw.githubusercontent.com/NikiforovAll/NikiforovAll/master/images/dev/tools/powershell.svg" alt="powershell" style="vertical-align:top; margin:6px 4px">
-</a>
-<a href="#">
-  <img src="https://raw.githubusercontent.com/NikiforovAll/NikiforovAll/master/images/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:6px 4px;">
-</a>
-<a href="#">
-  <img src="https://raw.githubusercontent.com/NikiforovAll/NikiforovAll/master/images/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
-</a>
-<a href="#">
-  <img src="https://raw.githubusercontent.com/NikiforovAll/NikiforovAll/master/images/dev/misc/web.svg" alt="web" style="vertical-align:top; margin:6px 4px">
-</a>
-
-### Coding Platforms
-| Name     | Description                                                                                                                       | GitHub Repository                                                           |
-|----------|-----------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
-| CodeWars | [![CodeWars Badge](https://www.codewars.com/users/NikiforovAll/badges/micro)](https://www.codewars.com/users/NikiforovAll/badges) | [/codewars-playground](https://github.com/NikiforovAll/codewars-playground) |
-| LeetCode | [leetcode.com/nikiforovall/](https://leetcode.com/nikiforovall/)                                                                  | [/leetcode-playground](https://github.com/NikiforovAll/leetcode-playground) |
-| Exercism | [exercism.io/profiles/nikiforovall/](https://exercism.io/profiles/NikiforovAll/)                                                  | [/exercism-playground](https://github.com/NikiforovAll/exercism-playground) |
+[![Twitter Badge](https://img.shields.io/twitter/follow/nikiforovall?style=social)](https://twitter.com/nikiforovall)
+[![Oleksii Nikiforov's GitHub](https://img.shields.io/badge/-@nikiforovall-%23181717?style=flat-square&logo=github)](https://github.com/nikiforovall)
+[![](https://vistr.dev/badge?repo=nikiforovall.nikiforovall&corners=square)](https://github.com/nikiforovall/vistr.dev)
 
 ## I'm interested in
 
@@ -45,7 +10,6 @@
 - Software Design & Architecture
 - Productivity
 - Blogging
-- Well-being
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nikiforovall&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -69,3 +33,12 @@
 <a href="https://nikiforovall.github.io/feed.xml">
     <img src="https://raw.githubusercontent.com/NikiforovAll/NikiforovAll/master/images/blogs/rss.svg" alt="rss" style="vertical-align:top; margin:6px 4px">
 </a>
+
+
+### Coding Platforms
+| Name     | Description                                                                                                                       | GitHub Repository                                                           |
+|----------|-----------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| CodeWars | [![CodeWars Badge](https://www.codewars.com/users/NikiforovAll/badges/micro)](https://www.codewars.com/users/NikiforovAll/badges) | [/codewars-playground](https://github.com/NikiforovAll/codewars-playground) |
+| LeetCode | [leetcode.com/nikiforovall/](https://leetcode.com/nikiforovall/)                                                                  | [/leetcode-playground](https://github.com/NikiforovAll/leetcode-playground) |
+| Exercism | [exercism.io/profiles/nikiforovall/](https://exercism.io/profiles/NikiforovAll/)                                                  | [/exercism-playground](https://github.com/NikiforovAll/exercism-playground) |
+
