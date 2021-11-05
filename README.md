@@ -6,7 +6,7 @@
 
 ## I'm interested in
 
-- .NET Core ecosystem
+- .NET
 - Software Design & Architecture
 - Productivity
 - Blogging
