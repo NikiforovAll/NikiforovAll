@@ -39,6 +39,6 @@
 | Name     | Description                                                                                                                       | GitHub Repository                                                           |
 |----------|-----------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
 | CodeWars | [![CodeWars Badge](https://www.codewars.com/users/NikiforovAll/badges/micro)](https://www.codewars.com/users/NikiforovAll/badges) | [/codewars-playground](https://github.com/NikiforovAll/codewars-playground) |
-| LeetCode | [leetcode.com/nikiforovall/](https://leetcode.com/nikiforovall/)                                                                  | [/leetcode-playground](https://github.com/NikiforovAll/leetcode-playground) |
+| LeetCode | [leetcode.com/nikiforovall/](https://leetcode.com/nikiforovall/)                                                                  | [/leetcode-playground-csharp](https://github.com/NikiforovAll/leetcode-playground) <br/>[/leetcode-playground-fsharp](https://github.com/NikiforovAll/leetcode-playground-fsharp) <br/>[/leetcode-playground-go](https://github.com/NikiforovAll/leetcode-playground-go)|
 | Exercism | [exercism.io/profiles/nikiforovall/](https://exercism.io/profiles/NikiforovAll/)                                                  | [/exercism-playground](https://github.com/NikiforovAll/exercism-playground) |
 
