@@ -3,6 +3,7 @@
 [![Twitter Badge](https://img.shields.io/twitter/follow/nikiforovall?style=social)](https://twitter.com/nikiforovall)
 [![Oleksii Nikiforov's GitHub](https://img.shields.io/badge/-@nikiforovall-%23181717?style=flat-square&logo=github)](https://github.com/nikiforovall)
 [![](https://vistr.dev/badge?repo=nikiforovall.nikiforovall&corners=square)](https://github.com/nikiforovall/vistr.dev)
+[![](https://img.shields.io/github/stars/nikiforovall?style=social)](https://img.shields.io/github/stars/nikiforovall?style=social)
 
 ## I'm interested in
 
