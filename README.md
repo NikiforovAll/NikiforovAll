@@ -12,8 +12,6 @@
 - Productivity
 - Blogging
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nikiforovall&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Social
 
 <a href="mailto:alexey.nikiforovall@gmail.com">
