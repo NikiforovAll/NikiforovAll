@@ -11,7 +11,6 @@
 - Artificial Intelligence
 - Software Design & Architecture
 - Productivity
-- Blogging
 
 ## 🫂 Social
 
