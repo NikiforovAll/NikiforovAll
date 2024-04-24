@@ -5,14 +5,15 @@
 [![](https://vistr.dev/badge?repo=nikiforovall.nikiforovall&corners=square)](https://github.com/nikiforovall/vistr.dev)
 [![](https://img.shields.io/github/stars/nikiforovall?style=social)](https://github.com/NikiforovAll?tab=repositories)
 
-## I'm interested in
+## 🧠 I'm interested in
 
-- .NET
+- .NET, Cloud Native, Distributed Systems
+- Artificial Intelligence
 - Software Design & Architecture
 - Productivity
 - Blogging
 
-## Social
+## 🫂 Social
 
 <a href="mailto:alexey.nikiforovall@gmail.com">
   <img src="https://raw.githubusercontent.com/NikiforovAll/NikiforovAll/master/images/social/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
@@ -33,7 +34,7 @@
     <img src="https://raw.githubusercontent.com/NikiforovAll/NikiforovAll/master/images/blogs/rss.svg" alt="rss" style="vertical-align:top; margin:6px 4px">
 </a>
 
-## Latest Blog Posts
+## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Job Offloading Pattern with System.Threading.Channels. A way to deal with long-running tasks in .NET](https://nikiforovall.github.io/dotnet/async/2024/04/21/job-offloading-pattern.html)
 - [Building pipelines with System.Threading.Channels](https://nikiforovall.github.io/dotnet/async/2024/04/21/channels-composition.html)
