@@ -35,4 +35,9 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Job Offloading Pattern with System.Threading.Channels. A way to deal with long-running tasks in .NET](https://nikiforovall.github.io/dotnet/async/2024/04/21/job-offloading-pattern.html)
+- [Building pipelines with System.Threading.Channels](https://nikiforovall.github.io/dotnet/async/2024/04/21/channels-composition.html)
+- [Polymorphic serialization via System.Text.Json in ASP.NET Core Minimal API](https://nikiforovall.github.io/dotnet/aspnetcore/2024/04/06/openapi-polymorphism.html)
+- [Transactional Outbox in .NET Cloud Native Development via Aspire](https://nikiforovall.github.io/dotnet/aspnetcore/aspire/2024/03/30/aspire-cap.html)
+- [A Guide to OpenAPI Client Generation with Kiota. Deep dive &lpar;Part 2&rpar;](https://nikiforovall.github.io/dotnet/aspnetcore/2024/03/24/kiota-guide-deep-dive.html)
 <!-- BLOG-POST-LIST:END -->
