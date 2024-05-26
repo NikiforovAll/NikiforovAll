@@ -35,9 +35,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering AWS Batch: A .NET Developer Guide to Batch File Processing](https://nikiforovall.github.io/dotnet/aws/2024/05/26/aws-batch-dotnet.html)
 - [Announcement - Keycloak.AuthServices v2.3.0 is out 🎉!](https://nikiforovall.github.io/dotnet/keycloak/2024/05/10/keycloak-v2-3-0.html)
 - [Announcement - Keycloak.AuthServices v2.0.0 is out 🎉!](https://nikiforovall.github.io/dotnet/keycloak/2024/05/05/keycloak-v2-0-0.html)
 - [Job Offloading Pattern with System.Threading.Channels. A way to deal with long-running tasks in .NET](https://nikiforovall.github.io/dotnet/async/2024/04/21/job-offloading-pattern.html)
 - [Building pipelines with System.Threading.Channels](https://nikiforovall.github.io/dotnet/async/2024/04/21/channels-composition.html)
-- [Polymorphic serialization via System.Text.Json in ASP.NET Core Minimal API](https://nikiforovall.github.io/dotnet/aspnetcore/2024/04/06/openapi-polymorphism.html)
 <!-- BLOG-POST-LIST:END -->
