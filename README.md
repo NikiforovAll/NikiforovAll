@@ -35,7 +35,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Claim-Check Pattern with AWS Message Processing Framework for .NET and Aspire](https://nikiforovall.github.io/dotnet/aws/2024/05/27/aws-claim-check-dotnet.html)
+- [nikiforovall.blog](https://nikiforovall.github.io/2024/05/27/aws-claim-check-dotnet.html)
 - [Mastering AWS Batch: A .NET Developer Guide to Batch File Processing](https://nikiforovall.github.io/dotnet/aws/2024/05/26/aws-batch-dotnet.html)
 - [Announcement - Keycloak.AuthServices v2.3.0 is out 🎉!](https://nikiforovall.github.io/dotnet/keycloak/2024/05/10/keycloak-v2-3-0.html)
 - [Announcement - Keycloak.AuthServices v2.0.0 is out 🎉!](https://nikiforovall.github.io/dotnet/keycloak/2024/05/05/keycloak-v2-0-0.html)
