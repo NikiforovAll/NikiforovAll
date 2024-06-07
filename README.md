@@ -35,9 +35,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Automated Tests instrumentation via OpenTelemetry and Aspire Dashboard](https://nikiforovall.github.io/dotnet/opentelemtry/2024/06/07/test-instrumentation-with-otel-aspire.html)
 - [Using Keycloak in .NET Aspire projects](https://nikiforovall.github.io/dotnet/keycloak/2024/06/02/aspire-support-for-keycloak.html)
 - [Claim-Check Pattern with AWS Message Processing Framework for .NET and Aspire](https://nikiforovall.github.io/dotnet/aws/2024/05/27/aws-claim-check-dotnet.html)
 - [Mastering AWS Batch: A .NET Developer Guide to Batch File Processing](https://nikiforovall.github.io/dotnet/aws/2024/05/26/aws-batch-dotnet.html)
 - [Announcement - Keycloak.AuthServices v2.3.0 is out 🎉!](https://nikiforovall.github.io/dotnet/keycloak/2024/05/10/keycloak-v2-3-0.html)
-- [Announcement - Keycloak.AuthServices v2.0.0 is out 🎉!](https://nikiforovall.github.io/dotnet/keycloak/2024/05/05/keycloak-v2-0-0.html)
 <!-- BLOG-POST-LIST:END -->
