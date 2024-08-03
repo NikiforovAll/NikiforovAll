@@ -35,9 +35,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Explore .NET application dependencies by using Dependify tool](https://nikiforovall.github.io/dotnet/2024/08/03/dependify.html)
 - [Managing Startup Dependencies in .NET Aspire](https://nikiforovall.github.io/dotnet/aspire/2024/06/28/startup-dependencies-aspire.html)
 - [Learn .NET Aspire by example: Polyglot persistence featuring PostgreSQL, Redis, MongoDB, and Elasticsearch](https://nikiforovall.github.io/dotnet/aspire/2024/06/18/polyglot-persistance-with-aspire.html)
 - [A .NET Developer Guide to XUnit Test Instrumentation with OpenTelemetry and Aspire Dashboard](https://nikiforovall.github.io/dotnet/opentelemetry/2024/06/12/developer-guide-to-xunit-otel.html)
 - [Automated Tests instrumentation via OpenTelemetry and Aspire Dashboard](https://nikiforovall.github.io/dotnet/opentelemetry/2024/06/07/test-instrumentation-with-otel-aspire.html)
-- [Using Keycloak in .NET Aspire projects](https://nikiforovall.github.io/dotnet/keycloak/2024/06/02/aspire-support-for-keycloak.html)
 <!-- BLOG-POST-LIST:END -->
