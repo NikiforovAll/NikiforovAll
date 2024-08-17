@@ -35,9 +35,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Unlocking the Power of TypedResults in Endpoints: A Consistent Approach to Strongly Typed APIs in .NET](https://nikiforovall.github.io/dotnet/2024/08/17/result-endpoints.html)
 - [Supercharge your Dependify tool with AI chat assistant](https://nikiforovall.github.io/dotnet/2024/08/09/dependify-ai.html)
 - [Explore .NET application dependencies by using Dependify tool](https://nikiforovall.github.io/dotnet/2024/08/03/dependify.html)
 - [Managing Startup Dependencies in .NET Aspire](https://nikiforovall.github.io/dotnet/aspire/2024/06/28/startup-dependencies-aspire.html)
 - [Learn .NET Aspire by example: Polyglot persistence featuring PostgreSQL, Redis, MongoDB, and Elasticsearch](https://nikiforovall.github.io/dotnet/aspire/2024/06/18/polyglot-persistance-with-aspire.html)
-- [A .NET Developer Guide to XUnit Test Instrumentation with OpenTelemetry and Aspire Dashboard](https://nikiforovall.github.io/dotnet/opentelemetry/2024/06/12/developer-guide-to-xunit-otel.html)
 <!-- BLOG-POST-LIST:END -->
