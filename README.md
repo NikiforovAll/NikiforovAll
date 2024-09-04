@@ -35,9 +35,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Typical RAG Implementation Using Semantic Kernel, Kernel Memory, and Aspire in .NET](https://nikiforovall.github.io/dotnet/ai/2024/09/04/typical-rag-dotnet.html)
 - [Building pipelines with IAsyncEnumerable in .NET](https://nikiforovall.github.io/dotnet/2024/08/22/async-enumerable-pipelines.html)
 - [Unlocking the Power of TypedResults in Endpoints: A Consistent Approach to Strongly Typed APIs in .NET](https://nikiforovall.github.io/dotnet/2024/08/17/result-endpoints.html)
 - [Supercharge your Dependify tool with AI chat assistant](https://nikiforovall.github.io/dotnet/2024/08/09/dependify-ai.html)
 - [Explore .NET application dependencies by using Dependify tool](https://nikiforovall.github.io/dotnet/2024/08/03/dependify.html)
-- [Managing Startup Dependencies in .NET Aspire](https://nikiforovall.github.io/dotnet/aspire/2024/06/28/startup-dependencies-aspire.html)
 <!-- BLOG-POST-LIST:END -->
