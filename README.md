@@ -35,9 +35,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [10 Lessons I Learned from Using Aspire in Production](https://nikiforovall.github.io/dotnet/aspire/2024/09/30/aspire-lessons-learned.html)
 - [A Tyrant Guide to Code Quality Gates featuring CSharpier, Husky.NET, and SonarCloud](https://nikiforovall.github.io/dotnet/2024/09/14/quality-gates-dotnet.html)
 - [Using Polyglot Notebooks and Kernel Memory in Your Day-to-Day Tasks](https://nikiforovall.github.io/dotnet/ai/2024/09/11/notebook-agent.html)
 - [Typical RAG Implementation Using Semantic Kernel, Kernel Memory, and Aspire in .NET](https://nikiforovall.github.io/dotnet/ai/2024/09/04/typical-rag-dotnet.html)
 - [Building pipelines with IAsyncEnumerable in .NET](https://nikiforovall.github.io/dotnet/2024/08/22/async-enumerable-pipelines.html)
-- [Unlocking the Power of TypedResults in Endpoints: A Consistent Approach to Strongly Typed APIs in .NET](https://nikiforovall.github.io/dotnet/2024/08/17/result-endpoints.html)
 <!-- BLOG-POST-LIST:END -->
