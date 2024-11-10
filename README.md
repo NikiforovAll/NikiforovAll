@@ -5,12 +5,37 @@
 [![](https://vistr.dev/badge?repo=nikiforovall.nikiforovall&corners=square)](https://github.com/nikiforovall/vistr.dev)
 [![](https://img.shields.io/github/stars/nikiforovall?style=social)](https://github.com/NikiforovAll?tab=repositories)
 
-## 🧠 I'm interested in
+## 💼 Professional Journey
 
-- .NET, Cloud Native, Distributed Systems
-- Artificial Intelligence
+I'm a seasoned software developer with over 10 years of experience in .NET technology. My primary focus now is on *enterprise search* and *process automation*, where I continue to build specialized expertise and tackle the unique challenges of these areas.
+
+## 📝 Blogging and Knowledge Sharing
+
+Sharing knowledge is something I truly enjoy, and I channel that enthusiasm into my blog: [https://nikiforovall.github.io/](https://nikiforovall.github.io/). I cover topics that matter to me there, hoping they’ll inspire and inform others.
+
+I write about a range of topics, always aiming to bring fresh perspectives and valuable insights to my readers:
+
+- .NET Ecosystem
+- Cloud Native, Distributed Systems
 - Software Design & Architecture
-- Productivity
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Hybrid Search with Elasticsearch in .NET](https://nikiforovall.github.io/dotnet/2024/11/02/elastic-hybrid-search.html)
+- [Querying and Filtering via Elastic.Clients.Elasticsearch in .NET](https://nikiforovall.github.io/dotnet/2024/10/20/querying-and-filtering-elastic-dotnet.html)
+- [Semantic Search with Elasticsearch in .NET](https://nikiforovall.github.io/dotnet/2024/10/19/semantic-search-via-elastic-dotnet.html)
+- [10 Lessons I Learned from Using Aspire in Production](https://nikiforovall.github.io/dotnet/aspire/2024/09/30/aspire-lessons-learned.html)
+- [A Tyrant Guide to Code Quality Gates featuring CSharpier, Husky.NET, and SonarCloud](https://nikiforovall.github.io/dotnet/2024/09/14/quality-gates-dotnet.html)
+<!-- BLOG-POST-LIST:END -->
+
+## 🛠 Open Source Contributions
+
+I believe in the transformative power of open source for learning, sharing, and collaboration. On my profile, you’ll find various projects where I contribute tools and libraries that aim to boost productivity and address common development challenges for the community.
+
+- [Keycloak.AuthServices.Authentication](https://github.com/NikiforovAll/keycloak-authorization-services-dotnet) - Easy Authentication and Authorization with Keycloak in .NET.
+- [Dependify](https://github.com/NikiforovAll/dependify) - A tool to visualize dependencies in your .NET application using Mermaid Diagrams.
+
 
 ## 🫂 Social
 
@@ -33,11 +58,3 @@
     <img src="https://raw.githubusercontent.com/NikiforovAll/NikiforovAll/master/images/blogs/rss.svg" alt="rss" style="vertical-align:top; margin:6px 4px">
 </a>
 
-## 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Hybrid Search with Elasticsearch in .NET](https://nikiforovall.github.io/dotnet/2024/11/02/elastic-hybrid-search.html)
-- [Querying and Filtering via Elastic.Clients.Elasticsearch in .NET](https://nikiforovall.github.io/dotnet/2024/10/20/querying-and-filtering-elastic-dotnet.html)
-- [Semantic Search with Elasticsearch in .NET](https://nikiforovall.github.io/dotnet/2024/10/19/semantic-search-via-elastic-dotnet.html)
-- [10 Lessons I Learned from Using Aspire in Production](https://nikiforovall.github.io/dotnet/aspire/2024/09/30/aspire-lessons-learned.html)
-- [A Tyrant Guide to Code Quality Gates featuring CSharpier, Husky.NET, and SonarCloud](https://nikiforovall.github.io/dotnet/2024/09/14/quality-gates-dotnet.html)
-<!-- BLOG-POST-LIST:END -->
