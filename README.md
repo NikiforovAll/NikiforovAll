@@ -5,10 +5,6 @@
 [![](https://vistr.dev/badge?repo=nikiforovall.nikiforovall&corners=square)](https://github.com/nikiforovall/vistr.dev)
 [![](https://img.shields.io/github/stars/nikiforovall?style=social)](https://github.com/NikiforovAll?tab=repositories)
 
-## 💼 Professional Journey
-
-I'm a seasoned software developer with over 10 years of experience in .NET technology. My primary focus now is on *enterprise search* and *process automation*, where I continue to build specialized expertise and tackle the unique challenges of these areas.
-
 ## 📝 Blogging and Knowledge Sharing
 
 Sharing knowledge is something I truly enjoy, and I channel that enthusiasm into my blog: [https://nikiforovall.github.io/](https://nikiforovall.github.io/). I cover topics that matter to me there, hoping they’ll inspire and inform others.
@@ -31,7 +27,7 @@ I write about a range of topics, always aiming to bring fresh perspectives and v
 
 ## 🛠 Open Source Contributions
 
-I believe in the transformative power of open source for learning, sharing, and collaboration. On my profile, you’ll find various projects where I contribute tools and libraries that aim to boost productivity and address common development challenges for the community.
+I believe in the power of open source for learning, sharing, and collaboration. On my profile, you’ll find various projects where I contribute tools and libraries that aim to boost productivity and address common development challenges for the community.
 
 - [Keycloak.AuthServices.Authentication](https://github.com/NikiforovAll/keycloak-authorization-services-dotnet) - Easy Authentication and Authorization with Keycloak in .NET.
 - [Dependify](https://github.com/NikiforovAll/dependify) - A tool to visualize dependencies in your .NET application using Mermaid Diagrams.
