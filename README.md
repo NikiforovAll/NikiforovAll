@@ -18,11 +18,11 @@ I write about a range of topics, always aiming to bring fresh perspectives and v
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing AI DIAL: The Open-Source AI Orchestration Platform](https://nikiforovall.github.io/dotnet/ai/2025/03/30/introduction-to-dial.html)
 - [Enforcing .NET Coding Guidelines with GitHub Copilot Custom Instructions](https://nikiforovall.github.io/productivity/2025/03/08/github-copilot-instructions-for-dotnet.html)
 - [Deploy Your Bot to Azure in 5 Minutes with Azure Developer CLI &lpar;azd&rpar;](https://nikiforovall.github.io/dotnet/2024/12/22/azd-bot-service.html)
 - [Hybrid Search with Elasticsearch in .NET](https://nikiforovall.github.io/dotnet/2024/11/02/elastic-hybrid-search.html)
 - [Querying and Filtering via Elastic.Clients.Elasticsearch in .NET](https://nikiforovall.github.io/dotnet/2024/10/20/querying-and-filtering-elastic-dotnet.html)
-- [Semantic Search with Elasticsearch in .NET](https://nikiforovall.github.io/dotnet/2024/10/19/semantic-search-via-elastic-dotnet.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🛠 Open Source Contributions
