@@ -7,7 +7,7 @@
 
 ## 📝 Blogging and Knowledge Sharing
 
-Sharing knowledge is something I truly enjoy, and I channel that enthusiasm into my blog: [https://nikiforovall.github.io/](https://nikiforovall.github.io/). I cover topics that matter to me there, hoping they’ll inspire and inform others.
+Sharing knowledge is something I truly enjoy, and I channel that enthusiasm into my blog: [https://nikiforovall.github.io/](https://nikiforovall.github.io/).
 
 I write about a range of topics, always aiming to bring fresh perspectives and valuable insights to my readers:
 
@@ -31,6 +31,8 @@ I believe in the power of open source for learning, sharing, and collaboration. 
 
 - [Keycloak.AuthServices.Authentication](https://github.com/NikiforovAll/keycloak-authorization-services-dotnet) - Easy Authentication and Authorization with Keycloak in .NET.
 - [Dependify](https://github.com/NikiforovAll/dependify) - A tool to visualize dependencies in your .NET application using Mermaid Diagrams.
+- [mcp-template-dotnet](https://github.com/NikiforovAll/mcp-template-dotnet) - A collection of MCP Server Templates + Aspire integration.
+- [VS Code Axe](https://github.com/NikiforovAll/vsc-code-axe) - Enhance your code editing and refactoring in Visual Studio Code.
 
 
 ## 🫂 Social
