@@ -18,11 +18,11 @@ I write about a range of topics, always aiming to bring fresh perspectives and v
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Composable AI with .NET Aspire: Extending DIAL Assistants with Add-Ons](https://nikiforovall.github.io/dotnet/ai/2025/04/18/introduction-to-dial-addons.html)
 - [Learn how to use Model Context Protocol &lpar;MCP&rpar; Server Template in Hybrid Mode](https://nikiforovall.github.io/dotnet/2025/04/08/hybrid-mcp-template.html)
 - [Simplifying Model Context Protocol &lpar;MCP&rpar; Server Development with Aspire](https://nikiforovall.github.io/dotnet/2025/04/04/mcp-template-and-aspire.html)
 - [Simplifying Model Context Protocol &lpar;MCP&rpar; Server Distribution with .NET Global Tools](https://nikiforovall.github.io/dotnet/2025/04/02/mcp-template-getting-started.html)
 - [Introducing AI DIAL: The Open-Source AI Orchestration Platform](https://nikiforovall.github.io/dotnet/ai/2025/03/30/introduction-to-dial.html)
-- [Enforcing .NET Coding Guidelines with GitHub Copilot Custom Instructions](https://nikiforovall.github.io/productivity/2025/03/08/github-copilot-instructions-for-dotnet.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🛠 Open Source Contributions
