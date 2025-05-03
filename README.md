@@ -7,7 +7,7 @@
 
 ## 📝 Blogging and Knowledge Sharing
 
-Sharing knowledge is something I truly enjoy, and I channel that enthusiasm into my blog: [https://nikiforovall.github.io/](https://nikiforovall.github.io/).
+Sharing knowledge is something I truly enjoy, and I channel that enthusiasm into my blog: [nikiforovall.blog](https://nikiforovall.blog)
 
 I write about a range of topics, always aiming to bring fresh perspectives and valuable insights to my readers:
 
