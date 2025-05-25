@@ -18,7 +18,7 @@ I write about a range of topics, always aiming to bring fresh perspectives and v
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Simplifying Background Job Scheduling Using Hangfire MCP Server](https://nikiforovall.github.io/dotnet/2025/05/25/hangfire-mcp.html)
+- [Background Job Scheduling Using Hangfire MCP Server](https://nikiforovall.github.io/dotnet/2025/05/25/hangfire-mcp.html)
 - [Code Review with GitHub Copilot in Visual Studio Code](https://nikiforovall.github.io/productivity/2025/05/03/github-copilot-prompt-engineering-code-review.html)
 - [Prompt Engineering with GitHub Copilot in Visual Studio Code](https://nikiforovall.github.io/productivity/2025/04/19/github-copilot-prompt-engineering.html)
 - [Composable AI with .NET Aspire: Extending DIAL Assistants with Add-Ons](https://nikiforovall.github.io/dotnet/ai/2025/04/18/introduction-to-dial-addons.html)
