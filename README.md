@@ -18,11 +18,11 @@ I write about a range of topics, always aiming to bring fresh perspectives and v
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Technical Debt Master: AI-Powered Code Analysis with Local LLMs](https://nikiforovall.github.io/ai/2025/08/09/tech-debt-master.html)
 - [Monitoring Claude Code with .NET Aspire Dashboard](https://nikiforovall.github.io/productivity/2025/06/14/claude-code-telemetry-aspire.html)
 - [My Claude Code Usage Best Practices and Recommendations](https://nikiforovall.github.io/productivity/2025/06/13/claude-code-rules.html)
 - [Hangfire MCP Server in Standalone Mode](https://nikiforovall.github.io/dotnet/2025/05/29/hangfire-mcp-standalone.html)
 - [Background Job Scheduling Using Hangfire MCP Server](https://nikiforovall.github.io/dotnet/2025/05/25/hangfire-mcp.html)
-- [Code Review with GitHub Copilot in Visual Studio Code](https://nikiforovall.github.io/productivity/2025/05/03/github-copilot-prompt-engineering-code-review.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🛠 Open Source Contributions
