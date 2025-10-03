@@ -18,11 +18,11 @@ I write about a range of topics, always aiming to bring fresh perspectives and v
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MCP Landscape for .NET Developers](https://nikiforovall.github.io/ai/mcp/2025/10/03/mcp-landscape.html)
 - [Testing with Playwright and Claude Code](https://nikiforovall.github.io/ai/2025/09/06/playwright-claude-code-testing.html)
 - [Add Authentication to MCP Servers using Microsoft Entra ID](https://nikiforovall.github.io/dotnet/2025/09/02/mcp-auth.html)
 - [Introducing Technical Debt Master: AI-Powered Code Analysis with Local LLMs](https://nikiforovall.github.io/ai/2025/08/09/tech-debt-master.html)
 - [Monitoring Claude Code with .NET Aspire Dashboard](https://nikiforovall.github.io/productivity/2025/06/14/claude-code-telemetry-aspire.html)
-- [My Claude Code Usage Best Practices and Recommendations](https://nikiforovall.github.io/productivity/2025/06/13/claude-code-rules.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🛠 Open Source Contributions
