@@ -18,11 +18,11 @@ I write about a range of topics, always aiming to bring fresh perspectives and v
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [VSCode Morph Agent: Let AI Control Your Workspace](https://nikiforovall.github.io/ai/2025/12/01/vscode-morph-agent.html)
 - [Transform .NET Diagnostics into a Specialized AI Agent with Claude Agent SDK](https://nikiforovall.github.io/dotnet/ai/2025/11/11/dotnet-format-agent.html)
 - [Claude Code Handbook: Best Practices and Recommendations](https://nikiforovall.github.io/productivity/2025/10/05/claude-code-handbook.html)
 - [MCP Landscape for .NET Developers](https://nikiforovall.github.io/ai/mcp/2025/10/03/mcp-landscape.html)
 - [Testing with Playwright and Claude Code](https://nikiforovall.github.io/ai/2025/09/06/playwright-claude-code-testing.html)
-- [Add Authentication to MCP Servers using Microsoft Entra ID](https://nikiforovall.github.io/dotnet/2025/09/02/mcp-auth.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🛠 Open Source Contributions
