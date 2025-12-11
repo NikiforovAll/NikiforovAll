@@ -12,6 +12,7 @@ Sharing knowledge is something I truly enjoy, and I channel that enthusiasm into
 I write about a range of topics, always aiming to bring fresh perspectives and valuable insights to my readers:
 
 - .NET Ecosystem
+- AI-Assisted Engineering
 - Cloud Native, Distributed Systems
 - Software Design & Architecture
 
