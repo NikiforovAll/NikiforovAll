@@ -19,11 +19,11 @@ I write about a range of topics, always aiming to bring fresh perspectives and v
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Risks of AI-Assisted Development](https://nikiforovall.github.io/ai/2026/02/15/risks-of-ai-assisted-development.html)
 - [Observing Claude Code Task Orchestration in Real Time using &#39;claude-code-kanban&#39;](https://nikiforovall.github.io/ai/productivity/2026/02/07/claude-code-kanban.html)
 - [LazyClaude 0.12.0: Marketplace Plugin Management](https://nikiforovall.github.io/ai/2025/12/21/lazyclaude-0-12-0.html)
 - [LazyClaude: Explore Your Claude Code Setup Without Breaking Flow](https://nikiforovall.github.io/ai/2025/12/07/lazyclaude.html)
 - [VSCode Morph Agent: Let AI Control Your Workspace](https://nikiforovall.github.io/ai/2025/12/01/vscode-morph-agent.html)
-- [Transform .NET Diagnostics into a Specialized AI Agent with Claude Agent SDK](https://nikiforovall.github.io/dotnet/ai/2025/11/11/dotnet-format-agent.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🛠 Open Source Contributions
