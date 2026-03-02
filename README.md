@@ -19,11 +19,11 @@ I write about a range of topics, always aiming to bring fresh perspectives and v
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Agent Framework — Foundations](https://nikiforovall.github.io/dotnet/ai/2026/03/02/microsoft-agent-framework-foundations.html)
 - [Building RAG with .NET AI Building Blocks - Microsoft.Extensions.AI](https://nikiforovall.github.io/dotnet/ai/2026/02/28/building-rag-with-dotnet-ai-building-blocks.html)
 - [Building RAG with .NET Aspire and Python](https://nikiforovall.github.io/dotnet/ai/2026/02/22/building-rag-with-aspire-and-python.html)
 - [Risks of AI-Assisted Development](https://nikiforovall.github.io/ai/2026/02/15/risks-of-ai-assisted-development.html)
 - [Observing Claude Code Task Orchestration in Real Time using &#39;claude-code-kanban&#39;](https://nikiforovall.github.io/ai/productivity/2026/02/07/claude-code-kanban.html)
-- [LazyClaude 0.12.0: Marketplace Plugin Management](https://nikiforovall.github.io/ai/2025/12/21/lazyclaude-0-12-0.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🛠 Open Source Contributions
