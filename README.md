@@ -19,11 +19,11 @@ I write about a range of topics, always aiming to bring fresh perspectives and v
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s new in Keycloak.AuthServices v2.9.0](https://nikiforovall.github.io/dotnet/keycloak/2026/03/27/keycloak-authservices-2026.html)
 - [Microsoft Agent Framework — Azure AI Foundry](https://nikiforovall.github.io/dotnet/ai/2026/03/24/microsoft-agent-framework-azure-ai-foundry.html)
 - [Microsoft Agent Framework — Workflows, MCP, A2A &amp; AG-UI](https://nikiforovall.github.io/dotnet/ai/2026/03/07/microsoft-agent-framework-workflows-mcp-a2a-agui.html)
 - [Microsoft Agent Framework — Foundations](https://nikiforovall.github.io/dotnet/ai/2026/03/02/microsoft-agent-framework-foundations.html)
 - [Building RAG with .NET AI Building Blocks - Microsoft.Extensions.AI](https://nikiforovall.github.io/dotnet/ai/2026/02/28/building-rag-with-dotnet-ai-building-blocks.html)
-- [Building RAG with .NET Aspire and Python](https://nikiforovall.github.io/dotnet/ai/2026/02/22/building-rag-with-aspire-and-python.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🛠 Open Source Contributions
