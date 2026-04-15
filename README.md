@@ -19,11 +19,11 @@ I write about a range of topics, always aiming to bring fresh perspectives and v
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [User-Managed Access &lpar;UMA&rpar; 2.0 Resource Sharing with Keycloak and .NET](https://nikiforovall.github.io/dotnet/keycloak/2026/04/15/keycloak-uma-resource-sharing.html)
 - [Claude Code Hub: Kanban, Marketplace, Cost, and Memory in One Place](https://nikiforovall.github.io/productivity/ai/2026/04/08/claude-code-hub.html)
 - [What&#39;s new in Keycloak.AuthServices v2.9.0](https://nikiforovall.github.io/dotnet/keycloak/2026/03/27/keycloak-authservices-2026.html)
 - [Microsoft Agent Framework — Azure AI Foundry](https://nikiforovall.github.io/dotnet/ai/2026/03/24/microsoft-agent-framework-azure-ai-foundry.html)
 - [Microsoft Agent Framework — Workflows, MCP, A2A &amp; AG-UI](https://nikiforovall.github.io/dotnet/ai/2026/03/07/microsoft-agent-framework-workflows-mcp-a2a-agui.html)
-- [Microsoft Agent Framework — Foundations](https://nikiforovall.github.io/dotnet/ai/2026/03/02/microsoft-agent-framework-foundations.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🛠 Open Source Contributions
