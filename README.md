@@ -19,11 +19,11 @@ I write about a range of topics, always aiming to bring fresh perspectives and v
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [pi-kanban: A Workspace for the Pi Coding Agent](https://nikiforovall.github.io/ai/productivity/2026/05/09/pi-kanban.html)
 - [Hangfire as an MCP Operations Pane for AI Agents](https://nikiforovall.github.io/dotnet/ai/2026/05/02/hangfire-mcp-operations-pane.html)
 - [User-Managed Access &lpar;UMA&rpar; 2.0 Resource Sharing with Keycloak and .NET](https://nikiforovall.github.io/dotnet/keycloak/2026/04/15/keycloak-uma-resource-sharing.html)
 - [Claude Code Hub: Kanban, Marketplace, Cost, and Memory in One Place](https://nikiforovall.github.io/productivity/ai/2026/04/08/claude-code-hub.html)
 - [What&#39;s new in Keycloak.AuthServices v2.9.0](https://nikiforovall.github.io/dotnet/keycloak/2026/03/27/keycloak-authservices-2026.html)
-- [Microsoft Agent Framework — Azure AI Foundry](https://nikiforovall.github.io/dotnet/ai/2026/03/24/microsoft-agent-framework-azure-ai-foundry.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🛠 Open Source Contributions
